@@ -1,0 +1,17 @@
+{
+  "id": "cdplus",
+  "name": "Checkered Decks+",
+  "display_name": "Checkered Decks+",
+  "badge_colour": "8B0000",
+  "author": [
+    "Jimmy B"
+  ],
+  "description": "every 2 suit combo as a checkered deck",
+  "prefix": "cdplus",
+  "main_file": "cdplus.lua",
+  "priority": 1,
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
